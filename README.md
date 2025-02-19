@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👑 K{nightCode} | The Python Enthusiast 
+# 👑 K{night_Code} | The Python Enthusiast 
 ## "Greetings, traveler of the code realm!"  
 I’m **Shafqat Shahriar Arefin**, I'm a 3rd year undergrad student, studying on Computer Science and Engineering. You can also call me **KnightCode** which is inspired by my love for chess and the cunning knight piece.  
 
